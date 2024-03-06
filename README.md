@@ -1,4 +1,4 @@
-# Library Management System
+# Sring-Stack Library
 
 ## Table of contents
 
